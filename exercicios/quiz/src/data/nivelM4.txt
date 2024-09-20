@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Qual é o maior país em área do mundo?",
+        "options": [
+            "Estados Unidos",
+            "Canadá",
+            "China",
+            "Rússia"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual a raiz quadrada de 144?",
+        "options": [
+            "11",
+            "12",
+            "13",
+            "14"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a fórmula química da água?",
+        "options": [
+            "CO2",
+            "O2",
+            "H2O",
+            "CH4"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem escreveu o livro 'Dom Casmurro'?",
+        "options": [
+            "Machado de Assis",
+            "José de Alencar",
+            "Jorge Amado",
+            "Clarice Lispector"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quantos estados tem o Brasil?",
+        "options": [
+            "25",
+            "26",
+            "27",
+            "28"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "options": [
+            "Terra",
+            "Marte",
+            "Júpiter",
+            "Saturno"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Em que ano terminou a escravidão no Brasil?",
+        "options": [
+            "1822",
+            "1888",
+            "1891",
+            "1900"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual desses elementos químicos é um metal?",
+        "options": [
+            "Oxigênio",
+            "Carbono",
+            "Cálcio",
+            "Ferro"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Quem pintou o teto da Capela Sistina?",
+        "options": [
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Michelangelo",
+            "Rafael"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quanto é 7³ (sete ao cubo)?",
+        "options": [
+            "243",
+            "343",
+            "3430",
+            "240"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o primeiro homem a circunavegar o globo terrestre?",
+        "options": [
+            "Cristóvão Colombo",
+            "Ferdinand Magellan",
+            "Vasco da Gama",
+            "Américo Vespúcio"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual a capital da Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Santiago",
+            "Montevidéu",
+            "Lima"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Em que continente está localizada a Antártica?",
+        "options": [
+            "Ásia",
+            "América do Sul",
+            "Europa",
+            "Nenhum"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Quem foi o 16º presidente dos Estados Unidos, conhecido por sua liderança na Guerra Civil?",
+        "options": [
+            "George Washington",
+            "Theodore Roosevelt",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quanto é 50% de 80?",
+        "options": [
+            "30",
+            "35",
+            "40",
+            "45"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "O que significa a sigla ONU?",
+        "options": [
+            "Organização Nacional Unida",
+            "Organização Não Unida",
+            "Organização das Nações Unidas",
+            "Ordem Nacional Unida"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o resultado de 9x8?",
+        "options": [
+            "72",
+            "64",
+            "81",
+            "96"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quem foi o autor de 'Os Lusíadas'?",
+        "options": [
+            "Eça de Queirós",
+            "Luís de Camões",
+            "Fernando Pessoa",
+            "José Saramago"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "O que é a fotossíntese?",
+        "options": [
+            "Um processo de respiração",
+            "A forma como as plantas produzem energia a partir da luz solar",
+            "A excreção de plantas",
+            "Uma forma de decomposição"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual desses países faz parte do continente africano?",
+        "options": [
+            "Portugal",
+            "México",
+            "Egito",
+            "Itália"
+        ],
+        "answer": 2
+    }
+]

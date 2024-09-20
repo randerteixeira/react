@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Qual é a moeda oficial do Japão?",
+        "options": [
+            "Yuan",
+            "Iene",
+            "Won",
+            "Dólar"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o país com a maior população do mundo?",
+        "options": [
+            "Índia",
+            "Estados Unidos",
+            "China",
+            "Brasil"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem foi o autor de 'A Origem das Espécies'?",
+        "options": [
+            "Isaac Newton",
+            "Charles Darwin",
+            "Albert Einstein",
+            "Galileu Galilei"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual a maior floresta tropical do mundo?",
+        "options": [
+            "Floresta do Congo",
+            "Floresta Amazônica",
+            "Taiga Siberiana",
+            "Floresta Negra"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual o menor país do mundo em área?",
+        "options": [
+            "Mônaco",
+            "Malta",
+            "Vaticano",
+            "San Marino"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a fórmula da área de um círculo?",
+        "options": [
+            "πr^2",
+            "2πr",
+            "r^2",
+            "πd"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quanto é 144 dividido por 12?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual o valor de 3! (3 fatorial)?",
+        "options": [
+            "6",
+            "9",
+            "3",
+            "12"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quanto é 5² (5 ao quadrado)?",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual o número primo mais próximo de 100?",
+        "options": [
+            "101",
+            "99",
+            "97",
+            "103"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Em que ano o homem pisou na Lua pela primeira vez?",
+        "options": [
+            "1967",
+            "1969",
+            "1971",
+            "1975"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual era o nome do famoso rei egípcio que morreu jovem?",
+        "options": [
+            "Ramsés II",
+            "Tutancâmon",
+            "Cleópatra",
+            "Akhenaton"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual foi a primeira civilização a desenvolver a escrita?",
+        "options": [
+            "Egípcios",
+            "Sumérios",
+            "Babilônios",
+            "Maias"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o primeiro imperador de Roma?",
+        "options": [
+            "César Augusto",
+            "Júlio César",
+            "Nero",
+            "Marco Aurélio"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Em que ano terminou a Segunda Guerra Mundial?",
+        "options": [
+            "1942",
+            "1944",
+            "1945",
+            "1946"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem descobriu a eletricidade?",
+        "options": [
+            "Thomas Edison",
+            "Benjamin Franklin",
+            "Nikola Tesla",
+            "James Watt"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o líder da Revolução Russa de 1917?",
+        "options": [
+            "Josef Stalin",
+            "Vladimir Lenin",
+            "Leon Trotsky",
+            "Mikhail Gorbachev"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual país foi o principal aliado dos EUA na Guerra Fria?",
+        "options": [
+            "Reino Unido",
+            "Alemanha",
+            "Japão",
+            "Canadá"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Em que ano foi proclamada a independência do Brasil?",
+        "options": [
+            "1820",
+            "1822",
+            "1824",
+            "1826"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o presidente dos EUA durante a Guerra Civil?",
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Andrew Johnson"
+        ],
+        "answer": 2
+    }
+]

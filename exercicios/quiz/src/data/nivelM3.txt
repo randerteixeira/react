@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Qual é o maior oceano do mundo?",
+        "options": [
+            "Oceano Atlântico",
+            "Oceano Pacífico",
+            "Oceano Índico",
+            "Oceano Ártico"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a capital do Canadá?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem pintou a Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Michelangelo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual planeta é conhecido como 'Planeta Vermelho'?",
+        "options": [
+            "Marte",
+            "Vênus",
+            "Júpiter",
+            "Saturno"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Quantos continentes existem no mundo?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "options": [
+            "Abraham Lincoln",
+            "George Washington",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o valor de Pi (π) arredondado a duas casas decimais?",
+        "options": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.18"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quanto é 15% de 200?",
+        "options": [
+            "25",
+            "30",
+            "15",
+            "35"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quanto é a raiz quadrada de 81?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o valor de 2 elevado à potência de 5?",
+        "options": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o imperador romano durante a crucificação de Jesus Cristo?",
+        "options": [
+            "Júlio César",
+            "Nero",
+            "Tibério",
+            "Constantino"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Em que ano aconteceu a Revolução Francesa?",
+        "options": [
+            "1789",
+            "1776",
+            "1812",
+            "1848"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Qual civilização antiga construiu as pirâmides de Gizé?",
+        "options": [
+            "Maias",
+            "Romanos",
+            "Egípcios",
+            "Mesopotâmios"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem foi o descobridor do Brasil?",
+        "options": [
+            "Cristóvão Colombo",
+            "Vasco da Gama",
+            "Pedro Álvares Cabral",
+            "Fernão de Magalhães"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem foi o líder francês durante as Guerras Napoleônicas?",
+        "options": [
+            "Charles de Gaulle",
+            "Napoleão Bonaparte",
+            "Luís XIV",
+            "Robespierre"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o número atômico do elemento Oxigênio?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quanto é 25 vezes 6?",
+        "options": [
+            "130",
+            "150",
+            "120",
+            "160"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quem foi o primeiro homem a pisar na Lua?",
+        "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "John Glenn"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Em que ano começou a Primeira Guerra Mundial?",
+        "options": [
+            "1910",
+            "1912",
+            "1914",
+            "1918"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem escreveu 'Dom Quixote'?",
+        "options": [
+            "Gabriel García Márquez",
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Fernando Pessoa"
+        ],
+        "answer": 1
+    }
+]

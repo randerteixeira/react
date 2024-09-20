@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Quantos dias tem uma semana?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual o nome do planeta em que vivemos?",
+        "options": [
+            "Marte",
+            "Júpiter",
+            "Terra",
+            "Saturno"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o maior animal terrestre?",
+        "options": [
+            "Leão",
+            "Elefante",
+            "Girafa",
+            "Hipopótamo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quanto é 5 + 3?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quantas pernas tem uma aranha?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a cor do sol?",
+        "options": [
+            "Azul",
+            "Vermelho",
+            "Amarelo",
+            "Verde"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quem foi o descobridor do Brasil?",
+        "options": [
+            "Cristóvão Colombo",
+            "Pedro Álvares Cabral",
+            "Dom Pedro II",
+            "Vasco da Gama"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual destes é um animal aquático?",
+        "options": [
+            "Cavalo",
+            "Cachorro",
+            "Tubarão",
+            "Gato"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quantas patas tem um cachorro?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual desses números é ímpar?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "7"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Em que estação caem as folhas das árvores?",
+        "options": [
+            "Inverno",
+            "Verão",
+            "Outono",
+            "Primavera"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quantos segundos tem um minuto?",
+        "options": [
+            "30",
+            "45",
+            "60",
+            "90"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual destes é um fruto?",
+        "options": [
+            "Maçã",
+            "Cenoura",
+            "Batata",
+            "Couve"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do personagem principal em 'O Rei Leão'?",
+        "options": [
+            "Nala",
+            "Mufasa",
+            "Simba",
+            "Scar"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome do feitiço de invisibilidade em Harry Potter?",
+        "options": [
+            "Alohomora",
+            "Wingardium Leviosa",
+            "Expelliarmus",
+            "Capa da Invisibilidade"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual é a estação mais quente do ano?",
+        "options": [
+            "Inverno",
+            "Outono",
+            "Primavera",
+            "Verão"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Qual é a forma geométrica com três lados?",
+        "options": [
+            "Quadrado",
+            "Triângulo",
+            "Retângulo",
+            "Círculo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Qual animal é conhecido como 'o melhor amigo do homem'?",
+        "options": [
+            "Gato",
+            "Peixe",
+            "Cachorro",
+            "Pássaro"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quantos meses tem um ano?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quanto é 10 - 4?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 1
+    }
+]
